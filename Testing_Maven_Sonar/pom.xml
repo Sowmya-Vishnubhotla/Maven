@@ -4,4 +4,11 @@
   <artifactId>Testing_Maven_Sonar</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Testing_Maven_Sonar</name>
+  <dependencies>
+  <dependency>
+    <groupId>org.sonarsource.scanner.maven</groupId>
+    <artifactId>sonar-maven-plugin</artifactId>
+    <version>3.7.0.1746</version>
+  </dependency>
+  </dependencies>
 </project>
